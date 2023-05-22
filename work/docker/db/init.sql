@@ -1,4 +1,4 @@
-CREATE TABLE event.email
+CREATE TABLE event.mail
 (
 	sent_to varchar(32) not null,
 	subject varchar(32) not null,
